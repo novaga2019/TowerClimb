@@ -75,4 +75,5 @@ DerivedDataCache/*
 
 # Custom Added Content
 TowerClimb/Content/StarterContent/
-
+TowerClimb/Content/StarterBundle/
+TowerClimb/Content/SoulCity/
